@@ -1,6 +1,6 @@
 
                                                         🚀 Contest-Hub
-                                                Live Link : contesthub.ai.studio
+                                                Live Link: https://contesthub.ai.studio
 
 ### One hub. Every contest. Your next problem-solving milestone.
 
