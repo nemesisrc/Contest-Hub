@@ -9,17 +9,11 @@ place---alongside practice ladders to help you stay consistent and track
 your progress.
 
 ```{=html}
-<p>
-```
-`<a href="https://contesthub.ai.studio">`{=html}`<strong>`{=html}🌐 Live
-Demo`</strong>`{=html}`</a>`{=html} ·
-`<a href="#-features">`{=html}`<strong>`{=html}✨
-Features`</strong>`{=html}`</a>`{=html} ·
-`<a href="#-getting-started">`{=html}`<strong>`{=html}⚡ Get
-Started`</strong>`{=html}`</a>`{=html} ·
-`<a href="#-contributing">`{=html}`<strong>`{=html}🤝
-Contributing`</strong>`{=html}`</a>`{=html}
-```{=html}
+<p align="center">
+  <a href="https://contesthub.ai.studio"><strong>🌐 Live Demo</strong></a> ·
+  <a href="#-features"><strong>✨ Features</strong></a> ·
+  <a href="#-getting-started"><strong>⚡ Get Started</strong></a> ·
+  <a href="#-contributing"><strong>🤝 Contributing</strong></a>
 </p>
 ```
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
