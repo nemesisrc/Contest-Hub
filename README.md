@@ -1,5 +1,5 @@
 
-                                                                                     🚀 Contest-Hub
+                                                🚀 Contest-Hub
 
 ### One hub. Every contest. Your next problem-solving milestone.
 
