@@ -1,0 +1,6 @@
+{
+  "name": "ContestHub - CP Contest Aggregator & Ladders",
+  "description": "Aggregates competitive programming contests across Codeforces, AtCoder, CodeChef, LeetCode, and HackerRank with live countdowns, calendar view, timezones, and A2OJ-style practice ladders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ContestHub - CP Contest Aggregator & Ladders</title>
+    <meta name="description" content="Aggregates competitive programming contests across Codeforces, AtCoder, CodeChef, LeetCode, and HackerRank with live countdowns, calendar view, timezones, and A2OJ-style practice ladders." />
+    <meta property="og:title" content="ContestHub - CP Contest Aggregator & Ladders" />
+    <meta property="og:description" content="Aggregates competitive programming contests across Codeforces, AtCoder, CodeChef, LeetCode, and HackerRank with live countdowns, calendar view, timezones, and A2OJ-style practice ladders." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script>
+      (function() {
+        var theme = localStorage.getItem('contesthub_theme');
+        if (theme === 'dark' || (!theme && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
