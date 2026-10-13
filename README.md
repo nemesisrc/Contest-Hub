@@ -1,6 +1,10 @@
 
                                                         🚀 Contest-Hub
                                                 Live Link: contesthub.ai.studio
+<p align="center">
+  🚀 <b>Contest-Hub</b><br>
+  Live Link: <a href="https://contesthub.ai.studio" target="_blank">contesthub.ai.studio</a>
+</p>
 
 ### One hub. Every contest. Your next problem-solving milestone.
 
@@ -8,6 +12,7 @@
 brings contest schedules from multiple platforms into one
 place---alongside practice ladders to help you stay consistent and track
 your progress.
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
