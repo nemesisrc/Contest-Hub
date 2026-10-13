@@ -8,9 +8,6 @@ brings contest schedules from multiple platforms into one
 place---alongside practice ladders to help you stay consistent and track
 your progress.
 
-```{=html}
-[**🌐 Live Demo**](https://contesthub.ai.studio) · [**✨ Features**](#-features) · [**⚡ Get Started**](#-getting-started) · [**🤝 Contributing**](#-contributing)
-```
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind
@@ -22,7 +19,6 @@ CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=t
 
 ![Status](https://img.shields.io/badge/status-in%20development-orange?style=flat-square)
 ![License](https://img.shields.io/badge/license-check%20repository-blue?style=flat-square)
-:::
 
 ------------------------------------------------------------------------
 
