@@ -1,6 +1,6 @@
 
-                                                        🚀 Contest-Hub
-                                                Live Link: contesthub.ai.studio
+                                                     🚀 Contest-Hub
+                                       
 <p align="center">
   🚀 <b>Contest-Hub</b><br>
   Live Link: <a href="https://contesthub.ai.studio" target="_blank">contesthub.ai.studio</a>
