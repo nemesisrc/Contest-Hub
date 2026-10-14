@@ -524,8 +524,4 @@ URL.
 
 
 ### 💻 Plan smarter. Practice consistently. Compete confidently. 🏆
-
- 
- <p align="center">
   If you find ContestHub useful, consider giving the repository a ⭐!
-</p>
