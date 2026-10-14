@@ -525,5 +525,7 @@ URL.
 
 ### 💻 Plan smarter. Practice consistently. Compete confidently. 🏆
 
-   If you find ContestHub useful, consider giving the repository a ⭐!
-
+ 
+ <p align="center">
+  If you find ContestHub useful, consider giving the repository a ⭐!
+</p>
